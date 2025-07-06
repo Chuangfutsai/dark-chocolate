@@ -1,8 +1,10 @@
 # dark-chocolate
 member of group
-#Joe 
-#Alex
-#Ricardo
-#Luke
-#Luca
-practice
+# Joe  
+
+# Alex 
+
+#Ricardo 
+# Luke 
+# Luca 
+practice 
